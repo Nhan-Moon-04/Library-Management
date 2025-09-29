@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyThuVien", "QuanLyThuVien.csproj", "{34929177-71C5-4F59-A8F5-C158F9E7856C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyThuVien_Winform", "..\QuanLyThuVien_Winform\QuanLyThuVien_Winform.csproj", "{9C1262D0-3A0C-4E14-A228-C1C83CDC1F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34929177-71C5-4F59-A8F5-C158F9E7856C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34929177-71C5-4F59-A8F5-C158F9E7856C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34929177-71C5-4F59-A8F5-C158F9E7856C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34929177-71C5-4F59-A8F5-C158F9E7856C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1262D0-3A0C-4E14-A228-C1C83CDC1F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1262D0-3A0C-4E14-A228-C1C83CDC1F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1262D0-3A0C-4E14-A228-C1C83CDC1F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1262D0-3A0C-4E14-A228-C1C83CDC1F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C774A28-C2E9-47BD-9DA6-C030BCD11892}
+	EndGlobalSection
+EndGlobal
